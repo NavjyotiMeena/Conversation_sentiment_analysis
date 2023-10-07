@@ -1,0 +1,29 @@
+{
+    "Speaker": "0",
+    "Utternace": "Oh, so now you suddenly care about fair trade? That's rich coming from someone who only cares about getting the cheapest price.",
+    "Predicted_Emotion": "neutral"
+}{
+    "Speaker": "1",
+    "Utternace": "I can't believe this company claims to be committed to fair trade! I just found out they source their products from sweatshops!",
+    "Predicted_Emotion": "neutral"
+}{
+    "Speaker": "0",
+    "Utternace": "I've been trying to find information about your company's commitment to fair trade, but all I get is vague answers and no transparency.",
+    "Predicted_Emotion": "unhappy"
+}{
+    "Speaker": "1",
+    "Utternace": "Listen, if you're so concerned about fair trade, maybe you should do your own research instead of relying on us to spoon-feed you information.",
+    "Predicted_Emotion": "neutral"
+}{
+    "Speaker": "0",
+    "Utternace": "Thank you for bringing up this important topic. Our company is fully committed to fair trade and sustainable sourcing. Let me provide you with more details.",
+    "Predicted_Emotion": "neutral"
+}{
+    "Speaker": "1",
+    "Utternace": "I've been a loyal customer for years, but I'm starting to question your company's commitment to fair trade. Can you assure me that your products are ethically sourced?",
+    "Predicted_Emotion": "neutral"
+}{
+    "Speaker": "0",
+    "Utternace": "I'm glad to hear that your company is dedicated to fair trade. It's important to support businesses that prioritize ethical sourcing.",
+    "Predicted_Emotion": "angry"
+}
